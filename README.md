@@ -9,6 +9,8 @@ https://github.com/sleshworld/NeuralOperators/blob/main/Thesis.pdf
 
 **Original Implementations:** 
 
+https://github.com/neuraloperator/neuraloperator
+
 https://github.com/raj-brown/fourier_neural_operator
 
 https://github.com/woodssss/TL-PI-DeepONet/tree/main
